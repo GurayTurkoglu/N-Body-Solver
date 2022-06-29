@@ -32,3 +32,5 @@ Maneuevers File Syntax:
 #0/0/0/0;
 
 If there are no extra maneuevers, velocity and time parameters on maneuever file should be 0 for each object id.
+
+Visualization of objects are done using a MATLAB script.
